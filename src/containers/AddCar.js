@@ -8,4 +8,4 @@ const mapDispatchToProps = (dispatch) => {
   };
 };
 
-export default connect(null, mapDispatchToProps)(addCar);
+export default connect(null, mapDispatchToProps)(AddCar);
